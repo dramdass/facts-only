@@ -1,0 +1,46 @@
+{
+  "object": "list",
+  "has_more": false,
+  "data": [
+    {
+      "object": "file",
+      "id": "file-MTU121UCYC0RoNChwIFzRGez",
+      "purpose": "assistants",
+      "filename": "smallernd_aaac",
+      "bytes": 1929950,
+      "created_at": 1700018363,
+      "status": "processed",
+      "status_details": null
+    },
+    {
+      "object": "file",
+      "id": "file-EmUxCx8u0MLcIwRCqOtgtMkQ",
+      "purpose": "assistants",
+      "filename": "smallernd_aaab",
+      "bytes": 1934735,
+      "created_at": 1700018363,
+      "status": "processed",
+      "status_details": null
+    },
+    {
+      "object": "file",
+      "id": "file-7WLzmcNKfXpojZoeD6AKzp8r",
+      "purpose": "assistants",
+      "filename": "smallernd_aaaa",
+      "bytes": 1930647,
+      "created_at": 1700018363,
+      "status": "processed",
+      "status_details": null
+    },
+    {
+      "object": "file",
+      "id": "file-ZycPBnRQFCZL1xMA99VMp2zb",
+      "purpose": "assistants",
+      "filename": "smallernd_aaad",
+      "bytes": 743204,
+      "created_at": 1700018362,
+      "status": "processed",
+      "status_details": null
+    }
+  ]
+}
