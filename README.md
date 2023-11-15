@@ -1,6 +1,6 @@
 # facts-only
 ## Overview
-High-quality fact-checker with detailed sourcing and categorization.
+High-quality fact-checker with detailed sourcing and categorization. As of right now, this repository is not licensed and the default copyright laws apply, with owner Dennis Ramdass retaining all rights to source code and no one may reproduce, distribute, or create derivative works from this work.
 
 ## Chatbot
 `facts-only` is a chatbot which prioritizes retrieval from datasets of facts that are authoratively categorized by an expert e.g. Politifact. The chatbot is designed to give clear, truthful answers within the limits of the knowledge available to it.
