@@ -21,3 +21,4 @@ An OpenAI assistant that is used programmatically as part of a wider system.
 5. Extend assistant functionality to include queries from different sources e.g. Is tweet X factual?
 6. Extend assistant functionality to include multi-modal input e.g. audio or video of political debate
 7. Non-OpenAI implementations with a goal to keep a single abstraction layer using popular frameworks e.g. LangChain, Haystack
+8. [Research] - Using AI/ML techniques for fact-checking not just human experts e.g. https://arxiv.org/abs/2311.08401
