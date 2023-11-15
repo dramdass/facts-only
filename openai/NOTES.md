@@ -30,4 +30,5 @@ These are notes from Dennis Ramdass' experience with the OpenAI implementation a
  * Version control them
  * Append/edit in a structured way
  * A/B test changes to the instructions
+* You really can't use _Assistants_ without billing setup and the pricing is simple but total cost to owner is difficult to guess without user data
   
